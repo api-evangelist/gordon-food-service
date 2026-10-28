@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Gordon Food Service is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://gfs.com/
+Gordon Food Service (GFS) is North America’s largest family‑operated foodservice distributor, supplying a broad range of food, beverage and related products to restaurants, healthcare facilities, schools and other institutions. With over 125 years of experience, GFS operates a network of distribution centers and offers services such as menu planning, culinary expertise, and technology solutions to help customers manage their operations efficiently.
+
+**Areas:** Company · Food Distribution · B2B · Logistics · North America
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://gfs.com/)
+- [Documentation](https://dev.gfs.com/)
+- [Getting started](https://gfs.com/en-us/quick-start/)
+- [Pricing](https://gfs.com/en-us/ideas/pricing-your-restaurant-menu-profitably/)
+- [Sign up](https://signup.gfs.com/en-us)
+- [Compliance](https://trust.gfs.com/)
+- [Terms of service](https://gfs.com/en-us/terms-of-use-agreement/)
+- [Privacy policy](https://gfs.com/en-us/privacy-policy/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/gordon-food-service/](https://apis.io/providers/gordon-food-service/).
